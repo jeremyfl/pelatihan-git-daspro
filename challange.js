@@ -1,6 +1,6 @@
 class Hmn {
   constructor() {
-    this.name = 'John'
+    this.name = 'John Doe'
     this.age = 20
     this.isMale = 'true'
   }
